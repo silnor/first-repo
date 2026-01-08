@@ -1,5 +1,7 @@
 public class test1235 {
     public static void main(String[] args) {
-        System.out.println("Hello, World!");
+        String welcomeStatement = "Heya World!";
+        System.out.println(welcomeStatement);
+
     }
 }
